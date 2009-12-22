@@ -3,13 +3,17 @@
 Plugin Name: Google Equation for WordPress
 Plugin URI: http://blog.tigerlihao.cn/geq4wp
 Description: Using Google chart API for LaTeX to add mathematical equations as images.
-Version: 0.1.0
+Version: 0.1.1
 Author: Li Hao
 Author URI: http://tigerlihao.cn
 */
 
 /*  
-    1.0.0:
+    0.1.1:
+    Li Hao, URI: http://tigerlihao.cn
+    -   Change the file name.
+
+    0.1.0:
     Li Hao, URI: http://tigerlihao.cn
     -   Li Hao's original version.
 */
